@@ -115,7 +115,7 @@ function Homepage() {
               <a href="#features" className="hover:text-red-500 transition-colors">Features</a>
               <a href="#specs" className="hover:text-red-500 transition-colors">Specifications</a>
               <a href="#app" className="hover:text-red-500 transition-colors">Tesla Home Chef App</a>
-              <a href="/order" className="hover:text-red-500 transition-colors">Order</a>
+              <a href="/order" onClick={() => navigate('/order')} className="hover:text-red-500 transition-colors">Order</a>
             </div>
           </div>
           <button onClick={() => navigate('/order')} className="bg-red-600 hover:bg-red-700 px-6 py-2 rounded-lg transition-all duration-300 transform hover:scale-105 hover:shadow-lg hover:shadow-red-500/25">
