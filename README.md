@@ -60,7 +60,7 @@ More than just a smart appliance, Tesla Home Chef is a dynamic culinary companio
 
 ## 📝 Resources
 
-> PPT and Abstract are available in the repository.
+> https://drive.google.com/drive/folders/1Xmua3vSA1q2xQNCvPpqmHuR1HM5Vgjtc?usp=sharing
 
 ---
 
