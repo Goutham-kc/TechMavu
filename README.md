@@ -64,6 +64,13 @@ More than just a smart appliance, Tesla Home Chef is a dynamic culinary companio
 
 ---
 
+## 🔗 Links
+
+* **GitHub Repository**: [Tesla Home Chef](https://github.com/Goutham-kc/TechMavu)
+* **Live Project**: [Link](https://tech-mavu.vercel.app/)
+
+---
+
 ## 🙌 Credits
 
 This project was developed with the support and inspiration of the following tools and AI platforms:
