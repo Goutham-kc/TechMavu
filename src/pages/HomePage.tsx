@@ -109,7 +109,7 @@ function Homepage() {
       <nav className="fixed top-0 left-0 right-0 z-50 bg-black/90 backdrop-blur-md border-b border-gray-800">
         <div className="max-w-7xl mx-auto px-6 h-16 flex items-center justify-between">
           <div className="flex items-center space-x-8">
-            <img src="/logo.jpg" alt="Tesla Home Chef Logo" className="h-10 w-10 rounded-full" />
+            <img src="./logo.jpg" alt="Tesla Home Chef Logo" className="h-10 w-10 rounded-full" />
             <div className="text-2xl font-bold tracking-wide">Tesla</div>
             <div className="hidden md:flex space-x-6 text-sm">
               <a href="#features" className="hover:text-red-500 transition-colors">Features</a>
@@ -522,7 +522,7 @@ function Homepage() {
         <div className="max-w-7xl mx-auto px-6">
           <div className="grid md:grid-cols-4 gap-8">
             <div>
-              <img src="/logo.jpg" alt="Tesla Home Chef Logo" className="w-32 h-32 object-contain rounded-full" />
+              <img src="./logo.jpg" alt="Tesla Home Chef Logo" className="w-32 h-32 object-contain rounded-full" />
               <div className="text-2xl font-bold mb-4">Tesla Home Chef</div>
               <p className="text-gray-400 text-sm">
                 Accelerating the world's transition to sustainable cooking
